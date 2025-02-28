@@ -1,0 +1,11 @@
+ .t3xte {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    font-family: monospace;
+    font-size: 48px;
+    background: (0, 0, 0, 0.1);
+    color: (0,0,0,0.9);
+}
